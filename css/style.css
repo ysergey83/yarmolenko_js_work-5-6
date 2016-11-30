@@ -1,0 +1,36 @@
+
+h1 {
+	font-size: 70px;
+}
+
+button {
+	font-size: 30px;
+	width: 140px;
+	height: 60px;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+
+#startPause {
+	background-color: gray;
+	border-color: gray;
+}
+
+#reset {
+	background-color: gray;
+	border-color: gray;
+}
+
+.conteiner {
+	margin: 0 auto;
+	margin-top: 200px;
+	width: 400px;
+	height: 400px;
+	margin-left: 550px;
+}
+
+#controls {
+	margin-left: 7px;
+	width: 310px;
+	height: 70px;
+}
